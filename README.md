@@ -24,10 +24,10 @@ It's a light-weight JavaScript Polling library.
     ]
   );
   ```
-**polling(param1, param2, param3)**
-* **`param1`**
-container where polling is placed and shown.
-* **`param2`**
-polling show configuration. `width` `height` `interval`
-* **`param3`**
-Array. image urls.
+  **polling(param1, param2, param3)**
+  * **`param1`**
+  container where polling is placed and shown.
+  * **`param2`**
+  polling show configuration. `width` `height` `interval`
+  * **`param3`**
+  Array. image urls.
